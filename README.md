@@ -1,5 +1,4 @@
 # :pencil2::clipboard: To-Do-List
-Alien invasion is a mimic of the iconic arcade game; Space Invaders.
 A webpage that allows the implementation of a todo list. The project
 uses JavaScript with jQuery along with HTML and CSS and uses gradients
 for coloring and transitions for smooth effects.
